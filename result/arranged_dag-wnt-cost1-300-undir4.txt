@@ -1,0 +1,58 @@
+gtrieScanner Results
+------------------------------------------
+General Information
+
+Start of Computation: 21h45m11s 28/04/2021
+End of Computation: 21h45m11s 28/04/2021
+
+Subgraph Size: 4
+Graph File: "input/formatted_Edged_dag-wnt-cost1-300.txt"
+Directed: NO
+Nr Nodes: 104
+Nr Edges: 375
+
+Method: GTRIE with file containing complete g-trie
+Different Types of Subgraphs Found [Original Network]: 6
+Subgraph Occurrences Found [Original Network]: 79664
+Time for computing census on original network: 0.007693s
+Average time for census on random network: 0.000000s
+
+Number of random networks: 0
+Random seed: 1619671511
+Exchanges per edge: 3
+Number of tries per exchange: 10
+------------------------------------------
+Motif Analysis Results
+
+Graph   Org_Freq |  Z-score |    Rnd_Avg +/-    Rnd_Dev
+
+0110
+1001
+1000
+0100       15698 |     0.00 |       0.00 +/-       0.00
+
+0111
+1000
+1000
+1000       50978 |     0.00 |       0.00 +/-       0.00
+
+0110
+1001
+1001
+0110        1324 |     0.00 |       0.00 +/-       0.00
+
+0111
+1010
+1100
+1000       10394 |     0.00 |       0.00 +/-       0.00
+
+0111
+1011
+1100
+1100        1166 |     0.00 |       0.00 +/-       0.00
+
+0111
+1011
+1101
+1110         104 |     0.00 |       0.00 +/-       0.00
+
